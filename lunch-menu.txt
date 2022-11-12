@@ -3,3 +3,4 @@ chicken
 vegitable pulav
 curd rice
 icecream
+egg frid rice
